@@ -4,6 +4,19 @@
 ## 프로젝트 개선점
 해당 토이 프로젝트는 개선점이 많습니다. 
 유저 인증, 테스트 미흡 등 많은 면이 부족하지만 추후 보완할 예정입니다.
-## 사용 사진 
+## 실행 사진 
+<p align="center">  
+  <img src="https://github.com/min9yu98/spring_websocket_study/assets/76439068/27cf0bbe-a352-41c3-a33e-d58717dc73c0" align="center" width="32%">  
+  <img src="https://github.com/min9yu98/spring_websocket_study/assets/76439068/8ec5ed0c-b4e0-4cd0-a4fb-b70a68589c8d" align="center" width="32%">  
+</p>
+<p align="center">  
+  <img src="https://github.com/min9yu98/spring_websocket_study/assets/76439068/c394a97f-7934-42cc-9dd6-06d7f02754dd" align="center" width="32%">  
+  <img src="https://github.com/min9yu98/spring_websocket_study/assets/76439068/18f1411a-a6e5-40a1-a584-fe74246c700d" align="center" width="32%">  
+</p>
+<!-- ![스크린샷 2024-04-19 오후 6 50 27(2)](https://github.com/min9yu98/spring_websocket_study/assets/76439068/18f1411a-a6e5-40a1-a584-fe74246c700d)
+![스크린샷 2024-04-19 오후 6 50 14(2)](https://github.com/min9yu98/spring_websocket_study/assets/76439068/c394a97f-7934-42cc-9dd6-06d7f02754dd)
+![스크린샷 2024-04-19 오후 6 50 01(2)](https://github.com/min9yu98/spring_websocket_study/assets/76439068/8ec5ed0c-b4e0-4cd0-a4fb-b70a68589c8d)
+![스크린샷 2024-04-19 오후 6 49 46(2)](https://github.com/min9yu98/spring_websocket_study/assets/76439068/27cf0bbe-a352-41c3-a33e-d58717dc73c0) -->
+
 ## 참고
 https://velog.io/@rainbowweb/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-STOMP%EB%A1%9C-%EC%B1%84%ED%8C%85%EB%B0%A9-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
